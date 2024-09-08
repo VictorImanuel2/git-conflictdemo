@@ -1,2 +1,4 @@
 # git-conflictdemo
-demo conflict 
+# demo conflict 
+# this is it 
+
